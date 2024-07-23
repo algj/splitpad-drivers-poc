@@ -11,6 +11,9 @@ This is a poor man's 40% "planck" - two wireless keypads, I have used Deltaco TB
 
 ![image](https://github.com/user-attachments/assets/26ebb2ed-9e35-4544-8136-b20a58bbbb0e)
 
+![IMG_20240723_090002](https://github.com/user-attachments/assets/8765e323-295f-4469-953c-c0894a8d8a53)
+
+
 ## FAQ
 
 Q: QMK firmware?
