@@ -7,7 +7,7 @@ You must add udev rules, they're in hexadecimal, my code accepts decimal in `con
 
 ## What's this?
 
-This is a poor man's 40% "planck" - two wireless keypads, I have used Deltaco TB-125:
+This is a poor man's 40% "planck" - two wireless numpads, I have used Deltaco TB-125:
 
 ![image](https://github.com/user-attachments/assets/26ebb2ed-9e35-4544-8136-b20a58bbbb0e)
 
@@ -26,7 +26,7 @@ A: I was on budget and I suck at soldering. I don't have any job rn. Those numpa
 
 Q: What's the price?
 
-A: It cost me around 11 EUR/13.50 USD for one keypad.
+A: It cost me around 11 EUR/13.50 USD for one numpad.
 
 Q: Why Deltaco TB-125?
 
